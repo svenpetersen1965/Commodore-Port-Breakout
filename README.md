@@ -14,10 +14,10 @@ Cassette Breakout:<br>
 <img src="https://github.com/svenpetersen1965/Commodore-Port-Breakout/blob/main/Commodore%20Port%20Breakout/Cassette%20Breakout/Rev.%200/pictures/dimensions.png" width="300" alt="Cassette Breakout">
 
 Cassette Output:<br>
-<img src="<img src="https://github.com/svenpetersen1965/Commodore-Port-Breakout/blob/main/Commodore%20Port%20Breakout/Cassette%20Breakout/Rev.%200/pictures/dimensions.png" width="300" alt="Cassette Breakout">" width="300" alt="Cassette Output">
+<img src="https://github.com/svenpetersen1965/Commodore-Port-Breakout/blob/main/Commodore%20Port%20Breakout/Cassette%20Output/Rev.%200/pictures/dimensions.png" width="300" alt="Cassette Breakout">
 
 IEEE-488 Output:<br>
-<img src="<img src="https://github.com/svenpetersen1965/Commodore-Port-Breakout/blob/main/Commodore%20Port%20Breakout/IEEE-488%20Output/Rev.%200/pictures/dimensions.png" width="300" alt="Cassette Breakout">" width="300" alt="IEEE-488 Output">
+<img src="https://github.com/svenpetersen1965/Commodore-Port-Breakout/blob/main/Commodore%20Port%20Breakout/IEEE-488%20Output/Rev.%200/pictures/dimensions.png" width="300" alt="Cassette Breakout">
 
 User Port Output:<br>
-<img src="<img src="https://github.com/svenpetersen1965/Commodore-Port-Breakout/blob/main/Commodore%20Port%20Breakout/User%20Port%20Output/Rev.%200/pictures/dimensions.png" width="300" alt="Cassette Breakout">" width="300" alt="User Port Output">
+<img src="https://github.com/svenpetersen1965/Commodore-Port-Breakout/blob/main/Commodore%20Port%20Breakout/User%20Port%20Output/Rev.%200/pictures/dimensions.png" width="300" alt="User Port Output">
